@@ -5,8 +5,8 @@ This digital museum is organized to correpond with the structure of _The Arcades
 
 ### The Convolutes
 - Convolute A: Arcades, _Magasins de Nouveautés_, Sales Clerks
-- Convolute B: Fashion
-- Convolute C: Ancient Paris, Catacombs, Demoltions, Decline of Paris
+- [Convolute B: Fashion](convoluteb/ConvoluteB.md)
+- [Convolute C: Ancient Paris, Catacombs, Demoltions, Decline of Paris](convolutec/ConvoluteC.md)
 - Convolute D: Boredom, Eternal Return
 - Convolute E: Haussmannizatino, Barricade Fighting
 - Convolute F: Iron Coinstructions
@@ -24,7 +24,7 @@ This digital museum is organized to correpond with the structure of _The Arcades
 - Convolute R: Mirrors
 - Convolute S: Painting, Jugendstil, Novelty
 - Convolute T: Modes of Lighting
-- Convolute U: Saint-Simon, Railroads
+- [Convolute U: Saint-Simon, Railroads](convoluteu/ConvoluteU.md)
 - Convolute V: Conspiracies, _Compagnonnage_
 - Convolute W: Fourier
 - Convolute X: Marx
@@ -52,6 +52,9 @@ This digital museum is organized to correpond with the structure of _The Arcades
 - Convolute u .....
 - Convolute v .....
 - Convolute w .....
+
+### First Sketches
+- Paris Arcades <I>
 
 ### Early Drafts
 - Arcades
