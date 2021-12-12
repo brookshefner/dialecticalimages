@@ -10,7 +10,7 @@ This digital museum is organized to correpond with the structure of _The Arcades
 - Convolute D: Boredom, Eternal Return
 - Convolute E: Haussmannizatino, Barricade Fighting
 - Convolute F: Iron Coinstructions
-- [Convolute G](/convoluteg.md): Exhibitions, Advertising, Grandville
+- [Convolute G: Exhibitions, Advertising, Grandville](/convoluteg.md)
 - Convolute H: The Collector
 - Convolute I: The Interior, The Trace
 - Convolute J: Baudelaire
