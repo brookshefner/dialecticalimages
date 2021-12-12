@@ -20,7 +20,7 @@ This digital museum is organized to correpond with the structure of _The Arcades
 - Convolute N: On the Theory of Knowledge, Theory of Progress
 - Convolute O: Prostitution, Gambling
 - Convolute P: The Streets of Paris
-- Convolute Q: Panorama
+- [Convolute Q: Panorama](convoluteq/ConvoluteQ.md)
 - Convolute R: Mirrors
 - Convolute S: Painting, Jugendstil, Novelty
 - Convolute T: Modes of Lighting
@@ -54,7 +54,7 @@ This digital museum is organized to correpond with the structure of _The Arcades
 - Convolute w .....
 
 ### First Sketches
-- Paris Arcades I
+- [Paris Arcades I](firstsketches/parisarcades.md)
 
 ### Early Drafts
 - Arcades
