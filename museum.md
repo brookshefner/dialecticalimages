@@ -13,7 +13,7 @@ This digital museum is organized to correpond with the structure of _The Arcades
 - [Convolute G: Exhibitions, Advertising, Grandville](/convoluteg/ConvoluteG.md)
 - Convolute H: The Collector
 - Convolute I: The Interior, The Trace
-- Convolute J: Baudelaire
+- [Convolute J: Baudelaire](/convolutej/ConvoluteJ.md)
 - Convolute K: Dream City and Dream House, Dreams of the Future, Anthropological Nihilism, Jung
 - Convolute L: Dream House, Museum, Spa
 - Convolute M: The Flaneur
