@@ -39,7 +39,7 @@ This digital museum is organized to correpond with the structure of _The Arcades
 - Convolute g: The Stock Exchange, Economic History
 - Convolute h .....
 - Convolute i: Reproduction Technology, Lithography
-- Convolute k: The Commune
+- [Convolute k: The Commune](convolutek/Convolutek.md)
 - Convolute l: The Seine, The Oldest Paris
 - Convolute m: Idleness
 - Convolute n .....
