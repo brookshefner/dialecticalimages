@@ -8,6 +8,22 @@ This project is an attempt to collect and display the visual references that app
 
 Print publications of _The Arcades Project_ - both the German edition (XXXX) and the English translation (1999) - feature just a handful of illustrations,  because of both the economics of print publication and the difficulty in tracking down these often-ephemeral objects. The broad digitization by global archives has made discovering many of the images Benjamin cited much easier. This project seeks to collect as many of these images as possible in an effort to imagine Benjamin's own encounter with the dialectical images that imform his work.
 
+
+## Project Components
+
+This project contains three components:
+- The Museum of Dialectical Images, a collection of images keyed to passages in _The Arcades Project_
+- Aufblitzen (Flash Up), a single random image from those collected
+> "Articulating the past historically does not mean recognizing it 'the way it was.' It means apprpriating a memory as it flashes up in a moment of danger" - Walter Benjamin, "On the Concept of History," Thesis VI (1940)
+- Secret Affinities, multiple random images displayed together 
+> "On the walls of these caverns their immemorial flora, the commodity, luxuriates and enters, like cancerous tissue, into the most irregular combinations. A world of secret affinities opens up within: palm tree and feather duster, hairdryer and Venus de Milo, prostheses and letter-writing manuals." - Walter Benjamin, _The Arcades Project_, R2,3
+
+
+## Project History
+
+This idea for this project was conceived by Brooks E. Hefner, Brad Pasanek, and Crystal Luo in the summer of 2020 during a (virtual) group read of _The Arcades Project_
+
+
 You can use the [editor on GitHub](https://github.com/brookshefner/dialecticalimages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
