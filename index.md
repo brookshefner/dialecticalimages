@@ -1,4 +1,4 @@
-### The Museum of Dialectical Images
+# The Museum of Dialectical Images
 ## A visual companion to Walter Benjamin's _Arcades Project_
 
 >"Ambiguity is the appearance of dialectic in images, the law of dialectics at a standstill. The standstill is utopia and the dialectical image, therefore, dream image." - Walter Benjamin, "Paris, the Capital of the Nineteenth Century" (1935)
