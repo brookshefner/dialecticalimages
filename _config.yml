@@ -1,1 +1,6 @@
+title: The Museum of Dialectical Images
+logo: /assets/klee.jpg
+description: A visual companion to Walter Benjamin’s _The Arcades Project_.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
