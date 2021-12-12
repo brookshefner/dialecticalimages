@@ -19,10 +19,10 @@ This digital museum is organized to correpond with the structure of _The Arcades
 - Convolute M: The Flaneur
 - Convolute N: On the Theory of Knowledge, Theory of Progress
 - Convolute O: Prostitution, Gambling
-- Convolute P: The Streets of Paris
+- [Convolute P: The Streets of Paris](convolutep/ConvoluteP.md)
 - [Convolute Q: Panorama](convoluteq/ConvoluteQ.md)
 - Convolute R: Mirrors
-- Convolute S: Painting, Jugendstil, Novelty
+- [Convolute S: Painting, Jugendstil, Novelty](convolutes/ConvoluteS.md)
 - Convolute T: Modes of Lighting
 - [Convolute U: Saint-Simon, Railroads](convoluteu/ConvoluteU.md)
 - Convolute V: Conspiracies, _Compagnonnage_
