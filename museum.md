@@ -54,7 +54,7 @@ This digital museum is organized to correpond with the structure of _The Arcades
 - Convolute w .....
 
 ### First Sketches
-- Paris Arcades <I>
+- Paris Arcades I
 
 ### Early Drafts
 - Arcades
