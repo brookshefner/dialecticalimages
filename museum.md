@@ -4,7 +4,7 @@
 This digital museum is organized to correpond with the structure of _The Arcades Project_. Convolutes with links feature at least one image; some convolutes do not reference any images, and these are not linked below. In instances where images have not yet been located, a placeholder has been created. 
 
 ### The Convolutes
-- Convolute A: Arcades, _Magasins de Nouveautés_, Sales Clerks
+- [Convolute A: Arcades, _Magasins de Nouveautés_, Sales Clerks](convolutea/ConvoluteA.md)
 - [Convolute B: Fashion](convoluteb/ConvoluteB.md)
 - [Convolute C: Ancient Paris, Catacombs, Demoltions, Decline of Paris](convolutec/ConvoluteC.md)
 - Convolute D: Boredom, Eternal Return
