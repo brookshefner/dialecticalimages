@@ -1,2 +1,3 @@
 # Convolute B: Fashion
-![Arcades B6a,4](https://user-images.githubusercontent.com/36647441/145730067-a8e153b1-c836-4b4f-85d5-3b69ff4e689c.png)
+![Arcades B6a,4](https://user-images.githubusercontent.com/36647441/145730573-44c32f24-74b0-4e04-9799-29c8e004e280.jpg)
+
