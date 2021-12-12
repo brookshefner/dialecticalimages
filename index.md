@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+### The Museum of Dialectical Images
+## A visual companion to Walter Benjamin's _Arcades Project_
+
+>"Ambiguity is the appearance of dialectic in images, the law of dialectics at a standstill. The standstill is utopia and the dialectical image, therefore, dream image." - Walter Benjamin, "Paris, the Capital of the Nineteenth Century" (1935)
+
+Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/brookshefner/dialecticalimages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
