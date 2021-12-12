@@ -12,10 +12,10 @@ Print publications of _The Arcades Project_ - both the German edition (XXXX) and
 ## Project Components
 
 This project contains three components:
-- [The Museum of Dialectical Images](dialecticalimages/museum.md), a collection of images keyed to passages in _The Arcades Project_
-- [Aufblitzen (Flash Up)](dialecticalimages/aufblitzen.md), a single random image from those collected
+- [The Museum of Dialectical Images](museum.md), a collection of images keyed to passages in _The Arcades Project_
+- [Aufblitzen (Flash Up)](aufblitzen.md), a single random image from those collected
 > "Articulating the past historically does not mean recognizing it 'the way it was.' It means appropriating a memory as it flashes up in a moment of danger" - Walter Benjamin, "On the Concept of History," Thesis VI (1940)
-- [Secret Affinities](dialecticalimages/affinities.md), multiple random images displayed together 
+- [Secret Affinities](affinities.md), multiple random images displayed together 
 > "On the walls of these caverns their immemorial flora, the commodity, luxuriates and enters, like cancerous tissue, into the most irregular combinations. A world of secret affinities opens up within: palm tree and feather duster, hairdryer and Venus de Milo, prostheses and letter-writing manuals." - Walter Benjamin, _The Arcades Project_, R2,3
 
 
