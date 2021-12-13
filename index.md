@@ -13,7 +13,7 @@ Print publications of _The Arcades Project_ - both the German edition (1982) and
 
 This project contains three components:
 - [The Museum of Dialectical Images](museum.md), a collection of images keyed to passages in _The Arcades Project_
-- >"There are relations between department store and museum, and here the bazar provides a link. The amassing of artworks in the museum brings them into communication with commodities, which - where they offer themselves en masse to the passerby - awake in him the notion that some part of this should fall to him as well" - Walter Benjamin, _The Arcades Project_, L5,5
+>"There are relations between department store and museum, and here the bazar provides a link. The amassing of artworks in the museum brings them into communication with commodities, which - where they offer themselves en masse to the passerby - awake in him the notion that some part of this should fall to him as well" - Walter Benjamin, _The Arcades Project_, L5,5
 - [Aufblitzen (Flash Up)](aufblitzen.md), a single random image from those collected
 > "Articulating the past historically does not mean recognizing it 'the way it was.' It means appropriating a memory as it flashes up in a moment of danger" - Walter Benjamin, "On the Concept of History," Thesis VI (1940)
 - [Secret Affinities](affinities.md), multiple random images displayed together 
