@@ -28,7 +28,7 @@ This digital museum is organized to correpond with the structure of _The Arcades
 - Convolute V: Conspiracies, _Compagnonnage_
 - Convolute W: Fourier
 - Convolute X: Marx
-- Convolute Y: Photography
+- [Convolute Y: Photography](convolutey/ConvoluteY.md)
 - Convolute Z: The Doll, The Automaton
 - Convolute a: Social Movement
 - Convolute b: Daumier
