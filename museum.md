@@ -31,9 +31,9 @@ This digital museum is organized to correpond with the structure of _The Arcades
 - [Convolute Y: Photography](convolutey/ConvoluteY.md)
 - Convolute Z: The Doll, The Automaton
 - Convolute a: Social Movement
-- [Convolute b: Daumier](convoluted/convoluted.md)
+- Convolute b: Daumier
 - Convolute c .....
-- Convolute d: Literary History, Hugo
+- [Convolute d: Literary History, Hugo](convoluted/convoluted.md)
 - Convolute e .....
 - Convolute f .....
 - [Convolute g: The Stock Exchange, Economic History](convoluteg2/convoluteg2.md)
