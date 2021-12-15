@@ -8,7 +8,7 @@ This digital museum is organized to correpond with the structure of _The Arcades
 - [Convolute B: Fashion](convoluteb/ConvoluteB.md)
 - [Convolute C: Ancient Paris, Catacombs, Demolitions, Decline of Paris](convolutec/ConvoluteC.md)
 - Convolute D: Boredom, Eternal Return
-- Convolute E: Haussmannization, Barricade Fighting
+- [Convolute E: Haussmannization, Barricade Fighting](convolutee/ConvoluteE.md)
 - [Convolute F: Iron Constructions](convolutef/ConvoluteF.md)
 - [Convolute G: Exhibitions, Advertising, Grandville](/convoluteg/ConvoluteG.md)
 - Convolute H: The Collector
