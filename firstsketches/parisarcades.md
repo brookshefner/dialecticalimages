@@ -1,6 +1,14 @@
 # First Sketches: Paris Arcades I (ca. 1927-1930)
 
 <img width="473" alt="Arcades Eo,39" src="https://user-images.githubusercontent.com/36647441/145730845-dee9abee-50a7-4c74-9795-38fd11c6773a.png">
+![Arcades Ho,13-1](https://user-images.githubusercontent.com/36647441/146273182-bbb7a604-87ec-4908-bed4-bc0ff4ac543e.jpeg)
+![Arcades Ho,13-2](https://user-images.githubusercontent.com/36647441/146273194-cb7856f2-f171-40ab-b7cb-907fae4ee9c2.jpeg)
+![Arcades Ho,13-3](https://user-images.githubusercontent.com/36647441/146273199-8847b952-791f-40fb-ac3c-3295f60ed2f2.jpeg)
+![Arcades Ho,13-4](https://user-images.githubusercontent.com/36647441/146273208-90e0614f-0825-449e-81a9-cb7186ea3391.jpeg)
+![Arcades Ho,13-5](https://user-images.githubusercontent.com/36647441/146273217-13f2114d-8067-4952-b5fb-3720671e2dfa.jpeg)
+![Arcades Ho,13-7](https://user-images.githubusercontent.com/36647441/146273221-6aab9e34-818e-418d-a3fe-12c3b4f08fa7.jpeg)
+![Arcades Ho,13-10](https://user-images.githubusercontent.com/36647441/146273228-724e2dc0-e93f-4215-8ec7-6c98bc106269.jpeg)
+![Arcades Ho,13-11](https://user-images.githubusercontent.com/36647441/146273237-97fdad62-2347-48ef-81f6-caaa2f73a3b0.jpeg)
 ![Arcades Lo,5-1](https://user-images.githubusercontent.com/36647441/145730825-7e12b98b-fe36-4013-92ab-d48bddf1627c.png)
 ![Arcades Lo,5-2](https://user-images.githubusercontent.com/36647441/145730831-106842a1-0322-49dd-89af-8a1243520f6c.png)
 ![Arcades Oo,19](https://user-images.githubusercontent.com/36647441/145730837-d1289422-0e6c-4ef1-9a67-d3d2728b9a67.jpg)
