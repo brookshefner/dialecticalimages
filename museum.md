@@ -16,7 +16,7 @@ This digital museum is organized to correpond with the structure of _The Arcades
 - [Convolute J: Baudelaire](/convolutej/ConvoluteJ.md)
 - Convolute K: Dream City and Dream House, Dreams of the Future, Anthropological Nihilism, Jung
 - Convolute L: Dream House, Museum, Spa
-- Convolute M: The Flâneur
+- [Convolute M: The Flâneur](convolutem/ConvoluteM.md)
 - Convolute N: On the Theory of Knowledge, Theory of Progress
 - Convolute O: Prostitution, Gambling
 - [Convolute P: The Streets of Paris](convolutep/ConvoluteP.md)
