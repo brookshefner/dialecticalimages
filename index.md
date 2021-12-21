@@ -18,6 +18,8 @@ This project contains three components:
 > "Articulating the past historically does not mean recognizing it 'the way it was.' It means appropriating a memory as it flashes up in a moment of danger" - Walter Benjamin, "On the Concept of History," Thesis VI (1940)
 - [Secret Affinities](affinities.md), multiple random images displayed together 
 > "On the walls of these caverns their immemorial flora, the commodity, luxuriates and enters, like cancerous tissue, into the most irregular combinations. A world of secret affinities opens up within: palm tree and feather duster, hairdryer and Venus de Milo, prostheses and letter-writing manuals." - Walter Benjamin, _The Arcades Project_, R2,3
+- Convolute, experiments with Benjaminian images
+> "Newness is a quality independent of the use value of the commodity. It is the origin of the semblance that belongs inalienably to images produced by the collective unconscious...The product of this reflection is the phantsmagoria of 'cultural history,' in which the bourgeoisie enjoys its false consciousness to the full." - Walter Benjamin, "Paris, the Capital of the Nineteenth Century"
 
 
 ## Project History
