@@ -7,7 +7,7 @@ This digital museum is organized to correpond with the structure of _The Arcades
 - [Convolute A: Arcades, _Magasins de Nouveautés_, Sales Clerks](convolutea/ConvoluteA.md)
 - [Convolute B: Fashion](convoluteb/ConvoluteB.md)
 - [Convolute C: Ancient Paris, Catacombs, Demolitions, Decline of Paris](convolutec/ConvoluteC.md)
-- Convolute D: Boredom, Eternal Return
+- [Convolute D: Boredom, Eternal Return](convoluteD/ConvoluteD.md)
 - [Convolute E: Haussmannization, Barricade Fighting](convolutee/ConvoluteE.md)
 - [Convolute F: Iron Constructions](convolutef/ConvoluteF.md)
 - [Convolute G: Exhibitions, Advertising, Grandville](/convoluteg/ConvoluteG.md)
@@ -18,7 +18,7 @@ This digital museum is organized to correpond with the structure of _The Arcades
 - Convolute L: Dream House, Museum, Spa
 - [Convolute M: The Flâneur](convolutem/ConvoluteM.md)
 - Convolute N: On the Theory of Knowledge, Theory of Progress
-- Convolute O: Prostitution, Gambling
+- [Convolute O: Prostitution, Gambling](ConvoluteO/ConvoluteO.md)
 - [Convolute P: The Streets of Paris](convolutep/ConvoluteP.md)
 - [Convolute Q: Panorama](convoluteq/ConvoluteQ.md)
 - Convolute R: Mirrors
