@@ -1,6 +1,6 @@
 # First Sketches: Paris Arcades I (ca. 1927-1930)
 
-<img width="473" alt="Arcades Eo,39" src="https://user-images.githubusercontent.com/36647441/145730845-dee9abee-50a7-4c74-9795-38fd11c6773a.png">
+![Eo 39](https://user-images.githubusercontent.com/36647441/149789710-db7d730c-53bd-4fd5-af5f-ac860e3078cb.jpg)
 ![Arcades Ho,13-1](https://user-images.githubusercontent.com/36647441/146273182-bbb7a604-87ec-4908-bed4-bc0ff4ac543e.jpeg)
 ![Arcades Ho,13-2](https://user-images.githubusercontent.com/36647441/146273194-cb7856f2-f171-40ab-b7cb-907fae4ee9c2.jpeg)
 ![Arcades Ho,13-3](https://user-images.githubusercontent.com/36647441/146273199-8847b952-791f-40fb-ac3c-3295f60ed2f2.jpeg)
